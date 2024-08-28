@@ -1,0 +1,120 @@
+3. Services and System Development
+a) Software Developer Responsibilities
+(i) General. In consideration of the fees described in Section 4, Software Developer will provide
+the HPARC ongoing software development and consulting services in the following areas
+(collectively, the “Services”): The Software Developer will develop, maintain, customize,
+distribute and manage the system configuration; provide 24-hour emergency response; test;
+provide Second Level Support; and provide user and technical documentation for the
+Telecommunication Billing and HPARC Care System (the “System”). In order to perform the
+Services, the HPARC authorizes the Software Developer to build a team of personnel
+approximating the labor chart set forth in Exhibit A as soon as reasonable.
+(ii) Reports. Software Developer shall deliver to HPARC reports in the format set forth on
+Exhibit C on a weekly basis or as specified by HPARC’s project manager, which shall contain a
+description of the current status of the System, the personnel and their skill category working
+on the System, the progress towards assigned HPARC objectives and the estimated progress to
+be made in the next week. Software Developer shall meet with the HPARC monthly at a
+mutually agreed-upon location, or more often if requested by HPARC, to discuss and report on
+the progress on the Services and the status of the System. Some of these meetings may happen
+using on-line technology.  
+(iii) Staffing Resources and Guarantee. HPARC reserves the right to approve all staffing
+decisions. Resources will be applied to HPARC projects by the mutual agreement of the parties
+and such resources shall not be reassigned without the prior written approval of the HPARC.
+HPARC reserves the right to have any of Software Developer’s personnel removed from
+HPARC’s projects for any reason that HPARC deems necessary for quality and performance.
+Resources shall be applied exclusively to HPARC projects, and will not be shared with other
+projects that Software Developer may support. Software Developer agrees that the failure to
+maintain the required staffing levels would be detrimental to the success of HPARC’s projects.
+(iv) Insurance. Software Developer shall provide adequate medical and accident insurance for
+all consultants supplied by Software Developer, whether working at the Software Developer’s
+site or working internationally on HPARC’s projects. Adequate insurance shall also be carried by
+Software Developer to protect HPARC-provided facilities, equipment and intellectual property
+present on the Software Developer’s site.
+ b) HPARC Responsibilities
+
+(i) General. Unless otherwise agreed, HPARC shall develop the business designs for the core
+product and for customization; and provide Software Developer with access to HPARC’s
+network if required. HPARC shall assist integration testing and configuration management
+during the Software Developer’s training period. This training period shall not exceed six (6)
+months from the date of this Agreement.
+(ii) Training. HPARC shall provide Software Developer adequate training on HPARC’s systems
+and each HPARC specific configuration in order to facilitate the transfer of all technical and
+product knowledge from Software Developer to HPARC.
+
+4. Fees and Payment
+a) Fees. The overall fee for this assignment is a lumpsum amount of -
+_____________________, ($________). HPARC is a 501c(3), non-profit corporation so no taxes
+are to be invoiced.
+b) Invoices. Software Developer shall provide HPARC, on a monthly basis, an invoice
+based upon a percent complete of each development task and deliverables.
+c) Travel Expense Reimbursement. Billings for Software Developer’s travel expenses must
+be generated along with the labor and miscellaneous expenses monthly billings. All bills must
+be submitted with adequate documentation, including the prescribed travel authorization form,
+the travel expense report form, original receipts, reason for travel, and the HPARC’s project
+manager’s written approval. Travel per diem rates will be determined by the HPARC’s project
+manager depending on the destination. HPARC must approve all travel and miscellaneous
+expenses in advance.
+d) Payments. HPARC shall pay all undisputed invoices within thirty (30) days of the receipt
+of such invoice. All payments shall be made by HPARC to Software Developer in U.S. Dollars. 
+
+5. Change of Scope. At any time during the term of this Agreement, HPARC may require Software
+Developer to provide additional or reduced services as set forth below.
+a) Submission of Request. HPARC shall submit to Software Developer in writing all
+requests by HPARC for any such modification of services which alters, amends, enhances, or
+adds to the services and/or time and/or place of performance (hereinafter referred to as
+“Modification/Change Request” or “Request”. HPARC will provide thirty (30) days’ notice in the
+event of reduction in services.
+b) Performance. Upon such authorization by HPARC of the Modification/Change Request,
+Software Developer will implement such Request immediately. Software Developer shall not
+perform any services in advance of written authorization from HPARC.
+c) Binding Agreement. For the purposes of this Agreement, each Modification/Change
+Request duly authorized in writing by HPARC and agreed to by Software Developer shall be
+deemed incorporated into and part of this Agreement, and each such Request shall constitute a formal amendment to this Agreement, adjusting fees and services as finally agreed upon for each authorized Modification/Change Request. In no event shall the services be deemed altered, amended, enhanced, reduced, or otherwise modified except through written
+authorization by HPARC of a Modification/Change Request and acceptance by Software
+Developer, all in accordance with this Section 5.
+
+9. Deliverables
+a) Completion or Termination. Software Developer shall upon completion or termination
+of this Agreement, or upon demand by the HPARC, for whatever cause and without regard to
+whether the System has been completed, promptly return to the HPARC any and all proprietary
+information together with any copies or reproductions thereof and destroy all material in its
+computers and other electronic files. Software Developer shall at such time provide the HPARC
+with a certificate signed by an officer of the Software Developer certifying that all such
+proprietary information has been returned to the HPARC or destroyed. Software Developer
+agrees to ensure that all HPARC data will be erased from all forms of magnetic and electronic
+media using a method which ensures that it can not be recovered. Software Developer shall
+state in writing the method of data destruction and the date completed.
+b) Ownership Notice. All work performed by the Software Developer under this
+Agreement shall contain the following copyright notice: “[HPARC] [year]. All Rights Reserved”
+and the following proprietary notice: “The information contained herein is proprietary [HPARC]
+and shall not be reproduced, copied in whole or in part, adapted, modified, or disseminated
+without the express prior written consent of [HPARC].” These notices shall appear in human
+readable form on labels attached to containers for computer disks, tapes or similar media and
+at the beginning of all human readable works such as design documents, manuals, etc. The
+notices shall appear in human readable form at the beginning of all machine readable
+documents.
+c) Cooperation by Software Developer. Should HPARC or any of its agents or
+representatives seek to obtain letters, patent, trademarks or copyrights in any country of the
+world on all or part of the System, Software Developer agrees to cooperate fully without
+compensation in providing information, completing forms, performing actions and obtaining
+the necessary signatures or assignments required to obtain such letters, patent, trademarks or
+copyrights. In the event HPARC shall be unable for any reason to obtain Software Developer’s
+signature on any document necessary for any purpose set forth in the foregoing sentence,
+Software Developer hereby irrevocably designates and appoints each of HPARC and its dulyauthorized officers and agents as Software Developer’s agent and Software Developer’s
+attorney-in-fact to act for and in Software Developer’s behalf and stead to execute and file any
+such document and to do all other lawfully permitted acts to further any such purpose with the
+same force and effect as if executed and delivered by Software Developer.
+d) Software Developer’s Proprietary Software Programs. Notwithstanding the provisions
+of Subsections 9a) and 9b) above, it is understood and agreed that Software Developer may, in
+its sole discretion, use its proprietary software programs in providing Services. If Software Developer uses any such proprietary software programs and so notifies HPARC, HPARC shall not
+market or in any way use such software programs as independent “stand-alone” programs
+without the express written consent of Software Developer, and HPARC shall not acquire any
+proprietary rights to such programs.
+
+
+19.	Interpretation
+19.1	In this Agreement, a reference to a statute or statutory provision includes a reference to: 
+(a)	that statute or statutory provision as modified, consolidated and/or re-enacted from time to time; and
+(b)	any subordinate legislation made under that statute or statutory provision.
+19.2	The Clause headings do not affect the interpretation of this Agreement.
+19.3	References in this Agreement to "calendar months" are to [the 12 named periods (January, February and so on) into which a year is divided].
+19.4	In this Agreement, general words shall not be given a restrictive interpretation by reason of being preceded or followed by words indicating a particular class of acts, matters or things.
