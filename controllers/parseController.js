@@ -3,7 +3,7 @@ const path = require("path");
 const textParser = require("../models/textParser");
 
 exports.parseText = (req, res) => {
-  const { inputText } = req.body;
+  const inputText = req.body;
   if (!inputText) {
     return res.status(400).json({ error: "No text provided" });
   }
